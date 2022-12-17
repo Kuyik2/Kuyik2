@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuyik2
 - 👀 I’m interested in Software Engineering back end devops
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering @ ALX
 
 
 <!---
